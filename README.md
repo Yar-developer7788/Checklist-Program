@@ -34,3 +34,7 @@ For fedora and fedora-based systems:
 ```
 sudo dnf install wine
 ```
+
+</br>
+
+<b>Virustotal:</b> https://www.virustotal.com/gui/file-analysis/OTdmODhhMDdiMjkyYTdlNThlNjU3MzNlNWRhOTk4YmI6MTcyNjMxODYxNw==
